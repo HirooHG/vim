@@ -1,0 +1,28 @@
+
+	"Command vim" :
+	{
+		"h"               : "bond d'un character sur la gauche",
+		"l"               : "bond d'un character sur la droite",
+		"j"               : "bouger dans la ligne du bas",
+		"k"               : "bouger dans la ligne du haut",
+		"w"               : "bond d'un mot / character spécial entier vers la droite",
+		"b"               : "bond d'un mot / character spécial entier vers la gauche",
+		"y"               : "copier ce qui est selectionné",
+		"p"               : "coller le presse p",
+		"dd"              : "supprime toute la ligne, mais copie dans le clipboard",
+		"u"               : "undo la commande faite",
+		"v"               : "highlight the whole line an cursor",
+		"a"               : "go in insert mode in the front of the cursor",
+    "i"               : "go in insert mode on the back of the curso",
+		"ctrl+c"          : "leave insert mode or any mode",
+		"ctrl+alt+["	    : "idem ctrl+c",
+		"dw"		          : "delete a single word",
+
+    
+		"gg"		          : "go to the beginning of the file",
+		"G"		            : "go to the end of the file",
+		"o"		            : "skip a line after and end in insert mode",
+		"O"		            : "skip a line before and end in insert mode",
+		""		            : ""
+	}
+

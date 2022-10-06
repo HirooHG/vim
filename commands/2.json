@@ -1,0 +1,21 @@
+{
+"search things" :
+  {
+    "yy"        : "copy the whole line",
+    "P"         : "paste de copy buffer on the line before",
+    "I"         : "go in insert mode at the beginning of the line",
+    "A"         : "go in insert mode at the end of the line",
+    "/"         : "search a word in the file",
+    "n"         : "Jump into the result of a '/' command",
+    "N"         : "Jump into the result of a '/' command reversly",
+    "*"         : "Jump into the word you are on in the whole file and highlights it",
+    "#"         : "reverse a the '*'"
+  },
+"horizontal search" : 
+  {
+     "f 'letter'"	: "jump to the letter to the letter after the cursor",
+     "F 'letter'"	: "same as f but before the cursor",
+     "t 'letter'"	: "same as f but jump a case further",
+     "T 'letter'"	: "same as F but also t"
+  }
+}
