@@ -16,4 +16,4 @@ vnoremap <Left> <Nop>
 vnoremap <Down> <Nop>
 vnoremap <Esc> <Nop>
 
-tnoremap <Esc> <Nop>
+tnoremap <Esc> <C-\><C-n>
