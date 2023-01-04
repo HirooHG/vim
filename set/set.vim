@@ -11,3 +11,4 @@ set incsearch
 set nobackup
 set noswapfile
 set clipboard+=unnamedplus
+set mouse=a
