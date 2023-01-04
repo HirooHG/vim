@@ -10,3 +10,4 @@ set incsearch
 
 set nobackup
 set noswapfile
+set clipboard+=unnamedplus
